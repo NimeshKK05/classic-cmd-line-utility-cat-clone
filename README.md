@@ -1,1 +1,1 @@
-# classic-cat-clone-using-C
+# classic-cat-clone
